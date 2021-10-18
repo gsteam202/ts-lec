@@ -4,8 +4,9 @@
  * function arguments 와 return 에 각 types 를 정의해주세요.
  */
 
-const func = (a, b, c, d, e) => {
+const func = (a, b, c, d, e, f) => {
   return 'ok';
 };
 
-func(100, 'hello', true, null, { keyA: () => {}, keyB: [] });
+const haha = 20000;
+func(100, 'hello', true, null, { keyA: () => {}, keyB: [] }, haha);

@@ -31,6 +31,6 @@
  * Initialize
  */
 
-// Variable
+// Literal
 
-// Functions
+// Function
